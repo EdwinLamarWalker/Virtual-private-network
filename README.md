@@ -2,7 +2,7 @@
 
 </p>
 
-<h1>osTicket - Vpn setup and usage</h1>
+<h1>Azure - Vpn setup and usage</h1>
 This tutorial demonstrates how to successfully use a vpn with Virtual Machine in Azure.<br />
 
 
