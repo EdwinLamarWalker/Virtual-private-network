@@ -1,4 +1,5 @@
-![image](https://github.com/EdwinLamarWalker/Virtual-private-network/assets/147763790/d449ee6a-e7b4-4d30-8052-97dd91470024)
+![image](https://github.com/EdwinLamarWalker/Virtual-private-network/assets/147763790/ef483fa9-49db-43ca-bc09-18a60140e5a1)
+
 
 
 </p>
@@ -57,4 +58,31 @@ In remote desktop look up your virtual machine's ip address (20.199.64.29, Franc
 ![image](https://github.com/EdwinLamarWalker/Virtual-private-network/assets/147763790/04562791-f15e-4f97-ab68-36c6c93906ad)
 
 
-Now Close ( do not shut down) your vm in azure and search a vpn app of your choice on your computer, I will be using proton vpn. The reason we arent creating an account inside our vm is because of our language barrier due to our vm's region ( france i.e french.) Once finished downloading and creating an acc, Copy The link and paste it inside your Azure browser, then proceed to download and sign in from there.
+Now Close ( do not shut down) your vm in azure and search a vpn app of your choice on your computer, I will be using proton vpn. The reason we arent creating an account inside our vm is because of our language barrier due to our vm's region ( france i.e french.) Once finished downloading and creating an acc, Copy The link and paste it inside your Azure browser, then proceed to download and sign in through the app from there.
+
+
+![image](https://github.com/EdwinLamarWalker/Virtual-private-network/assets/147763790/efe499d8-ae9b-4053-8667-a8231c576a5e)
+
+Notice our ip address is still based in france inside the vpn, now when we connect to a vpn it connects us to a proton private network server in that area, in our case it would be japan. when that happens our ip address will change. 
+
+
+
+![image](https://github.com/EdwinLamarWalker/Virtual-private-network/assets/147763790/3686b78e-4df3-4bf8-908c-74aa902d8e0e)
+
+Durring this process its building us a tunnel into a japanese server, If your connection to your vpn falters (which it will) thats normal it should comeback online shortly.
+
+
+![image](https://github.com/EdwinLamarWalker/Virtual-private-network/assets/147763790/59318491-1fba-4645-864b-cf90f6f4dbf4)
+
+
+We've installed a vpn and connected it into a server in japan. Now all of Our browsing traffic in the vpn, instead of where its been going, will be routed through our vpn servers, making it look as though we are in japan.
+
+
+![image](https://github.com/EdwinLamarWalker/Virtual-private-network/assets/147763790/7d4141f7-5a60-4175-a837-d06069d5815b)
+
+![image](https://github.com/EdwinLamarWalker/Virtual-private-network/assets/147763790/9c43dd47-ef65-48bf-8442-2d98dd831529)
+
+
+To Verify, refresh your ip address site we looked up earlier and it should give you a tokyo, japan ip address. Additionally any website you search will be brought up in japanese format, and that is creating and observing vpn's in microsoft azure.
+
+
