@@ -22,9 +22,10 @@ This tutorial observes Ip address differences and demonstrates how to successful
 
 - Look Up and record your ip address.
 - Create a virtual machine in a different region with Azure.
-- Item 3
-- Item 4
-- Item 5
+- Record ip address in azure
+- download and install proton vpn
+- run/observe and record vpn server in azure.
+- Delete all running components.
 
 <h2>Installation Steps</h2>
 
@@ -83,6 +84,6 @@ We've installed a vpn and connected it into a server in japan. Now all of Our br
 ![image](https://github.com/EdwinLamarWalker/Virtual-private-network/assets/147763790/9c43dd47-ef65-48bf-8442-2d98dd831529)
 
 
-To Verify, refresh your ip address site we looked up earlier and it should give you a tokyo, japan ip address. Additionally any website you search will be brought up in japanese format, and that is creating and observing vpn's in microsoft azure.
+To Verify, refresh your ip address site we looked up earlier and it should give you a tokyo, japan ip address. Additionally any website you search will be brought up in japanese format, and that is creating and observing vpn's in microsoft azure. Once finshed delete all running components inside azure. rinse and repeat for deeper understanding.
 
 
