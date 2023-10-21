@@ -18,20 +18,19 @@ This tutorial demonstrates how to successfully use a vpn with Virtual Machine in
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
+- Look Up and record your ip address.
+- Create a virtual machine in a different region with Azure.
 - Item 3
 - Item 4
 - Item 5
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/EdwinLamarWalker/Virtual-private-network/assets/147763790/50067b13-12e2-4728-bf5a-98296758f62d)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+The first thing you want to do is to look up your Ip address and jot it down in your notes, this will be important for later observation when using the vpn, so that we can record the differences when used.</p>
 <br />
 
 <p>
