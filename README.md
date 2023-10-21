@@ -41,7 +41,7 @@ The first thing you want to do is to look up your Ip address (whatismyipaddress.
 
 
 <p>
-Now when creating your virtual machine, you want to do 2 things differently. The first is to change your region, so that we can observe the differences.(Also be sure that the region has a language you can semi understand.) The second is to pick a size* with at least 2 vcpu's so that your virtual machine wont run slowly or lag up in the process. Then complete all the steps as normal and connect into remote desktop for your next steps.
+Now when creating your virtual machine, you want to do 2 things differently. The first is to change your region, so that we can observe the differences.The second is to pick a size* with at least 2 vcpu's so that your virtual machine wont run slowly or lag up in the process. Then complete all the steps as normal and connect into remote desktop for your next steps.
 </p>
 <br />
 
@@ -50,7 +50,7 @@ Now when creating your virtual machine, you want to do 2 things differently. The
 
 </p>
 <p>
-In remote desktop look up your virtual machine's ip address (20.199.64.29, France) note it down and observe it. As you can see our ip address changed to france because of our vm's region. If you look up any site ( google, youtube) you will see it adjust to french language which is interesting even without a vpn its kind of like we have a vpn acting as our vm.
+In remote desktop look up your virtual machine's ip address (20.199.64.29, France) note it down and observe it. As you can see our ip address changed to france because of our vm's region. If you look up any site (google, youtube) you will see it adjust to french language which is interesting even without a vpn its kind of like we have a vpn acting as our vm.
 </p>
 <br />
 
@@ -84,6 +84,6 @@ We've installed a vpn and connected it into a server in japan. Now all of Our br
 ![image](https://github.com/EdwinLamarWalker/Virtual-private-network/assets/147763790/9c43dd47-ef65-48bf-8442-2d98dd831529)
 
 
-To Verify, refresh your ip address site we looked up earlier and it should give you a tokyo, japan ip address. Additionally any website you search will be brought up in japanese format, and that is creating and observing vpn's in microsoft azure. Once finshed delete all running components inside azure. rinse and repeat for deeper understanding.
+To Verify, refresh your ip address site we looked up earlier and it should give you a tokyo, japan ip address (138.199.21.218). Additionally any website you search will be brought up in japanese format, and that is creating and observing vpn's in microsoft azure. Once finshed delete all running components inside azure. rinse and repeat for deeper understanding.
 
 
